@@ -1,5 +1,5 @@
 # 1. Declare variables with different data types
-age = 25  # Integer
+age = 26  # Integer
 height = 5.9  # Float
 complex_number = 3 + 4j  # Complex number
 

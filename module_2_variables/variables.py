@@ -1,12 +1,12 @@
 # Day 2: 30 Days of python programming
 
 # Variable declarations
-first_name = "Evelyn"
-last_name = "Kirabo"
+first_name = "Masego"
+last_name = "Letsoko"
 full_name = first_name + " " + last_name
-country = "Uganda"
-city = "Kampala"
-age = 25
+country = "South Africa"
+city = "Johannesburg"
+age = 26
 year = 2024
 is_married = False
 is_true = True

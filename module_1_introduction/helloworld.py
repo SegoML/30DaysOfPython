@@ -11,9 +11,9 @@ print(3 ** 4)  # Exponential
 print(3 // 4)  # Floor division
 
 # 3. Strings
-print('lunyolo evelyn kirabo')
-print('walyelo')
-print('Uganda')
+print('Masego Letsoko')
+print('Jozi')
+print('South Africa')
 print('I am enjoying 30 days of python')
 
 # 4. Data types
@@ -22,9 +22,9 @@ print(type(9.8))                             # Float
 print(type(3.14))                            # Float
 print(type(4 - 4j))                          # Complex number
 print(type(['Asabeneh', 'Python', 'Finland']))  # List
-print(type('Your name'))                     # String
-print(type('Your family name'))              # String
-print(type('Your country'))                  # String
+print(type('Masego'))                     # String
+print(type('Letsoko'))              # String
+print(type('South Africa'))                  # String
 # Numbers
 integer_example = 10
 float_example = 3.14
